@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>My name is Jon</p>
+        <p>My name is Jon Fossheim</p>
       </header>
     </div>
   );
